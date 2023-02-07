@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "8b223abd-b960-4716-9639-4627a70e63b8",
+      "name": "arun rawat",
+      "email": "anrawat17@gmail.com"
+    },
+    {
+      "id": "3489ed52-a49f-411c-bbaf-2ab1b8f18945",
+      "name": "pooja singh",
+      "email": "pooja@fb.com"
+    },
+    {
+      "id": "c1ca79f1-774a-49c4-abec-d46f58b6872c",
+      "name": "Rahul",
+      "email": "rahul@yahoo.com"
+    }
+  ]
+}
